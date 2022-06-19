@@ -1,21 +1,9 @@
 {
     "users": {
-        "1125": {
-            "Locations": [
-                "Riga",
-                "Jelgava"
-            ],
-            "RemindTime": "12:00:00"
-        },
-        "4111": {
-            "Locations": [
-                "Riga",
-                "Jelgava",
-                "Cesis",
-                "Liepaja"
-            ],
-            "RemindTime": "12:00:00"
-        }
-    },
-    "last_Song": "Dievs"
+        "1125": [
+            "Jelgava",
+            "Riga",
+            "Cesis"
+        ]
+    }
 }
